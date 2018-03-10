@@ -17,6 +17,8 @@ public class window extends javax.swing.JFrame {
     public window() {
         initComponents();
     }
+    
+    
 
     /**
      * This method is called from within the constructor to initialize the form.
